@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - killobj
+  - bullets
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Killobj
+  - background
+  - Player
+  - obstacles
+  - bullets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: whitebackground
+    uniqueID: 2117530477
+    locked: 0
+  - name: blue background
+    uniqueID: 1151159973
+    locked: 0
+  - name: green mountain
+    uniqueID: 779266485
+    locked: 0
+  - name: iceplatform
+    uniqueID: 3125947851
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: objingame
+    uniqueID: 1729931301
+    locked: 0
+  - name: player
+    uniqueID: 770177003
+    locked: 0
